@@ -11,7 +11,7 @@ The decryption process follows the reverse process of encryption, ensuring the s
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-The quantum resilience check ensure RSA keys are resistant to potential quantum computing threats, contributing to long-term security.
+The quantum resilience check ensures that RSA keys are resistant to potential quantum computing threats, contributing to long-term security.
 Quantum computers can break RSA encryption much faster than classical computers, so using larger key sizes (e.g., RSA 2048 and above) is essential for quantum resilience. 
 This check helps users identify keys that may need to be updated to avoid potential future vulnerabilities.
 
